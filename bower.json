@@ -1,0 +1,13 @@
+{
+  "name": "selectFX",
+  "main": "selectFX.js",
+  "version": "1.0.0",
+  "description": "selectFX",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "selectFX"
+  ],
+  "license": "MIT"
+}
