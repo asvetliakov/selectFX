@@ -1,0 +1,19 @@
+{
+  "name": "selectfx",
+  "version": "1.0.0",
+  "description": "select fx",
+  "main": "selectFx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asvetliakov/selectFX.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asvetliakov/selectFX/issues"
+  },
+  "homepage": "https://github.com/asvetliakov/selectFX#readme"
+}

@@ -8,9 +8,9 @@
  * Copyright 2014, Codrops
  * http://www.codrops.com
  */
-;( function( window ) {
+//;( function( window ) {
 	
-	'use strict';
+	//'use strict';
 
     // class helper functions from bonzo https://github.com/ded/bonzo
 
@@ -71,10 +71,10 @@
 //  define( classie );
 //} else if ( typeof exports === 'object' ) {
     // CommonJS
-//  module.exports = classie;
+  module.exports = classie;
 //} else {
     // browser global
-    window.classie = classie;
+    //window.classie = classie;
 
 	/**
 	 * based on from https://github.com/inuyaksa/jquery.nicescroll/blob/master/jquery.nicescroll.js
@@ -384,6 +384,6 @@
 	/**
 	 * add to global namespace
 	 */
-	window.SelectFx = SelectFx;
+	exports.SelectFx = SelectFx;
 
-} )( window );
+//} )( window );
