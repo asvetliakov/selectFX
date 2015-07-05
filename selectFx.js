@@ -384,6 +384,6 @@
 	/**
 	 * add to global namespace
 	 */
-	exports.SelectFx = SelectFx;
+	module.exports.SelectFx = SelectFx;
 
 //} )( window );
